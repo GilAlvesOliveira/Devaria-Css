@@ -1,5 +1,23 @@
 /* estilis da pagina index */
 
+main {
+    text-align: center;
+}
+
 .cover-container figure img {
     width: 100%;
+}
+
+main h3.title {
+    font-size: 1.2em;
+}
+
+main section abbr {
+    color: #25cbd3;
+}
+
+@media screen and (min-widht:992px) {
+    .cover-container {
+        width: 40%;
+    }
 }

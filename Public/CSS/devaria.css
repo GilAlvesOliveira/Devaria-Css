@@ -11,3 +11,27 @@ body {
     color: #ffff;
     margin: 0;
 } 
+.title {
+    padding: 0 20px;
+    font-size: 1.75em;
+    text-decoration: uppercase;
+}
+
+h1.title {
+    margin: 40px auto 20px;
+}
+
+.text-justify {
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+@media screen and (min-width:992px) {
+    .width-50pct-desktop {
+        width: 50% !important;
+    }
+    
+}
