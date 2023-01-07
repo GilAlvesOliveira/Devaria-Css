@@ -1,18 +1,5 @@
 /* estilis da pagina index */
 
-
-
-h1 {
-    color: orangered;
+.cover-container figure img {
+    width: 100%;
 }
-
-a{
-    color: blue;
-}
-
-    span{
-        color: blueviolet;
-    }
-    li{
-        color: red;
-    }
